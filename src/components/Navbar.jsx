@@ -38,7 +38,7 @@ export default function Navbar() {
         </div>
         </Link>
         <div className="flex gap-2">
-          <div className="p-3 font-thin text-xl">
+          <div className="p-3 font-thin text-base">
             <a
               href="https://www.facebook.com/p/GPS-DukliBlock-Nangal-100071956231603/?paipv=0&eav=Afanr1X8lB-ks9DTPM3geN_Me0UvpWYc9QzHuZl-ZoY7NS3pH6rV0VS2HeQXtuinzxQ&_rdr"
               target="_blank"
@@ -46,9 +46,9 @@ export default function Navbar() {
               Facebook
             </a>
           </div>
-          <div className="p-3 font-thin text-xl"><Link to="/directions">Directions</Link></div>
-          <div className="p-3 font-thin text-xl"><Link to="/gallery">Gallery</Link></div>
-          <div className="p-3 font-thin text-xl">Contact</div>
+          <div className="p-3 font-thin text-base"><Link to="/directions">Directions</Link></div>
+          <div className="p-3 font-thin text-base"><Link to="/gallery">Gallery</Link></div>
+          <div className="p-3 font-thin text-base">Contact</div>
         </div>
       </div>
     </>
