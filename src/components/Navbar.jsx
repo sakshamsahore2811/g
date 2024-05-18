@@ -15,7 +15,7 @@ export default function Navbar() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="w-10 h-10"
+              className="w-6 h-6"
             >
               <path
                 strokeLinecap="round"
@@ -26,7 +26,7 @@ export default function Navbar() {
             
           </div>
           <div>
-            <div className="times text-2xl text-center sm:text-left pt-3 pl-3">
+            <div className="times text-base text-center sm:text-left pt-3 pl-3">
               GPS Dukli
               <br />
             </div>
