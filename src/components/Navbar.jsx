@@ -48,7 +48,6 @@ export default function Navbar() {
           </div>
           <div className="p-3 font-thin text-base"><Link to="/directions">Directions</Link></div>
           <div className="p-3 font-thin text-base"><Link to="/gallery">Gallery</Link></div>
-          <div className="p-3 font-thin text-base">Contact</div>
         </div>
       </div>
     </>
